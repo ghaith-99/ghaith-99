@@ -68,5 +68,61 @@
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://up6.cc/2024/09/172596472399181.png"
+  },
+  {
+    "channel": "alkass 1",
+    "url": "https://tv.vodu.me:1995/kass/kass1/tracks-v1a1/mono.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://cne-eg.com/uploads/logos/20183142627377.png"
+  },
+  {
+    "channel": "alkass 2",
+    "url": "https://tv.vodu.me:1995/kass/kass2/tracks-v1a1/mono.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://cne-eg.com/uploads/logos/20183142948397.png"
+  },
+    {
+    "channel": "alkass 3",
+    "url": "https://tv.vodu.me:1995/kass/kass3/tracks-v1a1/mono.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://cne-eg.com/uploads/logos/20183143127531.png"
+  },
+  {
+    "channel": "alkass 4",
+    "url": "https://tv.vodu.me:1995/kass/kass4/tracks-v1a1/mono.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://cne-eg.com/uploads/logos/20183142520385.png"
+  },
+  {
+    "channel": "ssc 1",
+    "url": "https://tv.vodu.me:1995/bein1/ssc1/tracks-v1a1/mono.m3u8rsion=1&type=webp",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/SSC1/original/SSC1.png?height=379.5&width=675&croppingPoint=&version=1&type=webp"
+  },
+  {
+    "channel": "ssc 2",
+    "url": "https://tv.vodu.me:1995/bein1/ssc2/tracks-v1a1/mono.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/ssc2/original/ssc2.png?height=379.5&width=675&croppingPoint=&version=1&type=webp"
+  },
+  {
+    "channel": "ssc extra 1",
+    "url": "https://tv.vodu.me:1995/bein1/ssc6/tracks-v1a1/mono.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/EXTRA1/original/EXTRA1.png?height=379.5&width=675&croppingPoint=&version=1&type=web"
+  },
+  {
+    "channel": "ssc extra 2",
+    "url": "https://tv.vodu.me:1995/bein1/ssc7/tracks-v1a1/mono.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/EXTRA2/original/EXTRA2.png?height=379.5&width=675&croppingPoint=&version=1&type=webpn=1&type=web"
   }
 ]
