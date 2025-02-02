@@ -154,59 +154,67 @@
     "logo": "https://tv.alfajertv.com/assets/images/logo.png"
   },
    {
-    "channel": "beIN Sport 1 HD [Yaseen TV]",
+    "channel": "beIN Sport 1 HD 720",
     "url": "http://het130a.4rouwanda-shop.store/live/918454578001/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
   },
   {
-    "channel": "beIN Sport 2 HD [Yaseen TV]",
+    "channel": "beIN Sport 2 HD 720",
     "url": "http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
   },
   {
-    "channel": "beIN Sport 3 HD [Yaseen TV]",
+    "channel": "beIN Sport 3 HD 720",
     "url": "http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
   },
-  {
-    "channel": "beIN Sport 4 HD [Yaseen TV]",
-    "url": "http://het127a.4rouwanda-shop.store/live/9787488847/index.m3u8",
+ {
+    "channel": "beIN Sport 1 HD 1080",
+    "url": "http://het130a.4rouwanda-shop.store/live/918454578001/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
   },
   {
-    "channel": "beIN Sport 5 HD [Yaseen TV]",
-    "url": "http://het131a.4rouwanda-shop.store/live/610303030/index.m3u8",
+    "channel": "beIN Sport 2 HD 1080",
+    "url": "http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
   },
   {
-    "channel": "beIN Sport 6 HD [Yaseen TV]",
-    "url": "http://het111a.4rouwanda-shop.store/live/1515000000/index.m3u8",
+    "channel": "beIN Sport 3 HD 1080",
+    "url": "http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+ {
+    "channel": "beIN Sport 1 4K",
+    "url": "http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24949",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
   },
   {
-    "channel": "beIN Sport 7 HD [Yaseen TV]",
-    "url": "http://het113a.4rouwanda-shop.store/live/33523510/index.m3u8",
+    "channel": "beIN Sport 2 4K",
+    "url": "http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24948",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
   },
   {
-    "channel": "beIN Sport 8 HD [Yaseen TV]",
-    "url": "http://het126a.4rouwanda-shop.store/live/996251000/index.m3u8",
+    "channel": "beIN Sport 3 4K",
+    "url": "http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24947",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/8-HD.png/240px-8-HD.png"
-  }
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+
 ]
