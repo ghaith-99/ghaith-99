@@ -154,67 +154,46 @@
     "logo": "https://tv.alfajertv.com/assets/images/logo.png"
   },
    {
-    "channel": "beIN Sport 1 HD 720",
+    "channel": "beIN Sport 1 HD [yaseen]",
     "url": "http://het130a.4rouwanda-shop.store/live/918454578001/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
   },
   {
-    "channel": "beIN Sport 2 HD 720",
+    "channel": "beIN Sport 2 HD [yaseen]",
     "url": "http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
   },
   {
-    "channel": "beIN Sport 3 HD 720",
+    "channel": "beIN Sport 3 HD [yaseen]",
     "url": "http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8",
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
   },
  {
-    "channel": "beIN Sport 1 HD 1080",
-    "url": "http://het130a.4rouwanda-shop.store/live/918454578001/index.m3u8",
+    "channel": "Raya 1",
+    "url": "http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD1_web/web/playlist.m3u8",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+    "logo": "https://play-lh.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y"
   },
   {
-    "channel": "beIN Sport 2 HD 1080",
-    "url": "http://het102a.4rouwanda-shop.store/live/69854211/index.m3u8",
+    "channel": "Raya 2",
+    "url": "http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD_web/web1/playlist.m3u8",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+    "logo": "https://play-lh.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y"
   },
   {
-    "channel": "beIN Sport 3 HD 1080",
-    "url": "http://het125a.4rouwanda-shop.store/live/645587700/index.m3u8",
+    "channel": "Raya 3",
+    "url": "http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD2_web/web/playlist.m3u8",
     "http_referrer": null,
     "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
-  },
- {
-    "channel": "beIN Sport 1 4K",
-    "url": "http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24949",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
-  },
-  {
-    "channel": "beIN Sport 2 4K",
-    "url": "http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24948",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
-  },
-  {
-    "channel": "beIN Sport 3 4K",
-    "url": "http://ktm42.xyz:2052/313516296760/PANO6600a910ce53d.24762/24947",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+    "logo": "https://play-lh.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y"
   }
 
 ]
