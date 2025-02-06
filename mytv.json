@@ -194,6 +194,13 @@
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://play-lh.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y"
+  },
+  {
+    "channel": "test",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428258&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": ""
   }
 
 ]
