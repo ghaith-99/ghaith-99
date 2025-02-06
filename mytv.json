@@ -83,7 +83,7 @@
     "user_agent": null,
     "logo": "https://cne-eg.com/uploads/logos/20183142948397.png"
   },
-    {
+  {
     "channel": "AL Kass 3. HD",
     "url": "https://liveakgr.alkassdigital.net:443/hls/live/2097037/Alkass3vak/master540.m3u8",
     "http_referrer": null,
@@ -153,7 +153,7 @@
     "user_agent": null,
     "logo": "https://tv.alfajertv.com/assets/images/logo.png"
   },
-   {
+  {
     "channel": "beIN Sport 1 HD [yaseen]",
     "url": "http://het130a.4rouwanda-shop.store/live/918454578001/index.m3u8",
     "http_referrer": null,
@@ -174,7 +174,7 @@
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
   },
- {
+  {
     "channel": "Raya 1",
     "url": "http://platform.topuphost.com:8558/api/stream/GetModifiedM3U8Url2?url=https://vstream3.hadara.ps:8443/RayaHD1_web/web/playlist.m3u8",
     "http_referrer": null,
@@ -196,11 +196,816 @@
     "logo": "https://play-lh.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y"
   },
   {
-    "channel": "test",
+    "channel": "BEIN SPORTS 1 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534236&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN Sports 2 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534237&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN SPORTS 3 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534238&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN SPORTS 4 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534239&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN SPORTS 5 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534240&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN SPORTS 6 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534539&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN SPORTS 7 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=535403&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN SPORTS 8 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=536963&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "BEIN SPORTS 9 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=582293&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ✦●✦●beIN SPORTS 4K✦●✦●",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272168&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS NEWS 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140916&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140900&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140901&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140902&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 4 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140903&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 5 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140904&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 6 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140905&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 7 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140906&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | BEIN 1 PREMIUM 5K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639064&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | BEIN 2 PREMIUM 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639063&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | BEIN 3 PREMIUM 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639062&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 XTRA 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639073&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 XTRA 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639072&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 XTRA 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639071&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS GLOBAL 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140917&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 EN 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140907&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 EN 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140908&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ✦●✦● beIN SPORTS FHD ✦●✦●",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272166&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS NEWS FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140932&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140936&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140937&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140938&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 4 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140939&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 5 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140940&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 6 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140941&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 7 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140942&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 EN FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140943&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 EN FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140944&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | BEIN PREMIUM 1 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639061&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | BEIN 2 PREMIUM FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639060&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | BEIN 3 PREMIUM FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639059&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 XTRA FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639070&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 XTRA FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639069&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 XTRA FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639068&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ✦●✦● beIN SPORTS HD ✦●✦●",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272163&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140921&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140922&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140923&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 4 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140924&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 5 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140925&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 6 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140926&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 7 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140927&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 EN HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140928&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 EN HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140929&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 XTRA HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639067&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 XTRA HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639066&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 XTRA HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=639065&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ✦●✦● beIN SPORTS SD ✦●✦●",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272165&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 1 ENGLISH SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428237&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 2 ENGLISH SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428238&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 1 XTRA SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428234&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 2 XTRA SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428235&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 3 XTRA SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428236&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS GLOBAL SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428225&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=144108&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 2 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428226&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 3 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428227&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 4 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428228&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 5 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428229&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 6 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428230&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 7 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428231&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 8 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428232&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 9 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428233&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS NEWS SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428224&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ✦●✦● beIN SPORTS LQ ✦●✦●",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272164&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 1 XTRA LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428250&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 2 XTRA LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428251&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 3 XTRA LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428252&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 1 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428241&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 2 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428242&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 3 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428243&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 4 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428244&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 5 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428245&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 6 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428246&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 7 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428247&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 8 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428248&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS 9 LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428249&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS GLOBAL LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428240&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "4K: beIN SP⚽RTS NEWS LQ",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428239&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ✦●✦● ABU DHABI SPORTS ✦●✦●",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272167&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ABU DHABI SPORTS 1",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=3773&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | ABU DHABI SPORTS 2",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=3774&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "✦●✦● SP⚽RT ✦●✦●",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=215633&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS EXTRA 1",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=278006&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS EXTRA 2",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=278007&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS EXTRA 3",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=398271&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS 1",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=184367&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS 2",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=184368&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS 3",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=184369&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS 4",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=184370&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "AR | SSC SPORTS 5",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=184371&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 1 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428268&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 2 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428269&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 3 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428270&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 4 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428271&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 5 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428272&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 1 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428263&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 2 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428264&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 3 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428265&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 4 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428266&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC SPORTS 5 SD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428267&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC-EXTRA 1 sd",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428262&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC-EXTRA 2 sd",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428261&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC-EXTRA 3 sd",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428260&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC LIVE EVENT",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428259&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": null
+  },
+  {
+    "channel": "SSC-NEWS",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428258&extension=m3u8",
     "http_referrer": null,
     "user_agent": null,
-    "logo": ""
+    "logo": null
   }
-
 ]
+
