@@ -1,4 +1,5 @@
 [
+  /* --- القنوات قبل Raya تبقى بنفس الترتيب --- */
   {
     "channel": "beIN Sport 1 HD",
     "url": "https://tv.kooraiq.com:4433/beIN_sport1/tracks-v1a1/mono.m3u8",
@@ -195,55 +196,10 @@
     "user_agent": null,
     "logo": "https://play-lh.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y"
   },
-  {
-    "channel": "BEIN SPORTS 1 FHD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534236&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
-  },
-  {
-    "channel": "BEIN SPORTS 2 FHD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534237&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
-  },
-  {
-    "channel": "BEIN SPORTS 3 FHD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534238&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
-  },
-  {
-    "channel": "BEIN SPORTS 4 FHD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534239&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
-  },
-  {
-    "channel": "BEIN SPORTS 5 FHD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534240&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
-  },
-  {
-    "channel": "BEIN SPORTS 6 FHD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534539&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
-  },
-  {
-    "channel": "BEIN SPORTS 7 FHD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=535403&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
-  },
+
+  /* --- الآن إعادة ترتيب القنوات بعد Raya 3 --- */
+
+  /* المجموعة الأولى: قنوات beIN 4K / 5K */
   {
     "channel": "beIN SPORTS 4K",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272168&extension=m3u8",
@@ -350,6 +306,227 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
   },
   {
+    "channel": "beIN SPORTS GLOBAL 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140917&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "beIN SPORTS 1 EN 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140907&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "beIN SPORTS 2 EN 4K",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140908&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+
+  /* المجموعة الثانية: قنوات beIN FHD */
+  {
+    "channel": "BEIN SPORTS 1 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534236&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "BEIN SPORTS 2 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534237&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+  {
+    "channel": "BEIN SPORTS 3 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534238&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+  {
+    "channel": "BEIN SPORTS 4 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534239&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
+  },
+  {
+    "channel": "BEIN SPORTS 5 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534240&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
+  },
+  {
+    "channel": "BEIN SPORTS 6 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534539&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
+  },
+  {
+    "channel": "BEIN SPORTS 7 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=535403&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
+  },
+  {
+    "channel": "beIN SPORTS FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272166&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "beIN SPORTS NEWS FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140932&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140936&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140937&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140938&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 4 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140939&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 5 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140940&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 6 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140941&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 7 FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140942&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 EN FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140943&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 EN FHD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140944&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+
+  /* المجموعة الثالثة: قنوات beIN HD (تحتوي على كلمة HD فقط) */
+  {
+    "channel": "AR | beIN SPORTS HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272163&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140921&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140922&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 3 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140923&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 4 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140924&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 5 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140925&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 6 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140926&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 7 HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140927&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 1 EN HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140928&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "AR | beIN SPORTS 2 EN HD",
+    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140929&extension=m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+  {
     "channel": "beIN SPORTS HD",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272163&extension=m3u8",
     "http_referrer": null,
@@ -405,20 +582,8 @@
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
   },
-  {
-    "channel": "beIN SPORTS 1 EN HD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140928&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
-  },
-  {
-    "channel": "beIN SPORTS 2 EN HD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=140929&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
-  },
+
+  /* المجموعة الرابعة: القنوات التي تحتوي على SD (بما فيها قنوات SSC) */
   {
     "channel": "SSC SPORTS EXTRA 1",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=278006&extension=m3u8",
@@ -476,41 +641,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
   },
   {
-    "channel": "SSC SPORTS 1 HD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428268&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
-  },
-  {
-    "channel": "SSC SPORTS 2 HD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428269&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
-  },
-  {
-    "channel": "SSC SPORTS 3 HD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428270&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
-  },
-  {
-    "channel": "SSC SPORTS 4 HD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428271&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
-  },
-  {
-    "channel": "SSC SPORTS 5 HD",
-    "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428272&extension=m3u8",
-    "http_referrer": null,
-    "user_agent": null,
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
-  },
-  {
     "channel": "SSC EXTRA 1 SD",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=428262&extension=m3u8",
     "http_referrer": null,
@@ -546,4 +676,3 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
   }
 ]
-
