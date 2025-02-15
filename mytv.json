@@ -674,6 +674,218 @@
     "http_referrer": null,
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
+  },
+  [
+  {
+    "channel": "Super TV beIN Sport 1 FHD",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 2 FHD",
+    "url": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 3 FHD",
+    "url": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 4 FHD",
+    "url": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 5 FHD",
+    "url": "https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 6 FHD",
+    "url": "https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 7 FHD",
+    "url": "https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 8 FHD",
+    "url": "https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/8-HD.png/240px-8-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 9 FHD",
+    "url": "https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/9-HD.png/240px-9-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport xtra1 FHD",
+    "url": "https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_1080.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://cne-eg.com/uploads/logos/202112151077.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 1 HD",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 2 HD",
+    "url": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 3 HD",
+    "url": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 4 HD",
+    "url": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 5 HD",
+    "url": "https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 6 HD",
+    "url": "https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 7 HD",
+    "url": "https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 8 HD",
+    "url": "https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/8-HD.png/240px-8-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 9 HD",
+    "url": "https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/9-HD.png/240px-9-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport xtra1 HD",
+    "url": "https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://cne-eg.com/uploads/logos/202112151077.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 1 SD",
+    "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/1-HD.png/240px-1-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 2 SD",
+    "url": "https://stream.supertv.gg:3002/supertv/sport/stv2/ch2/ch2_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 3 SD",
+    "url": "https://stream.supertv.gg:3003/supertv/sport/stv3/ch3/ch3_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/3-HD.png/240px-3-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 4 SD",
+    "url": "https://stream.supertv.gg:3004/supertv/sport/stv4/ch4/ch4_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/4-HD.png/240px-4-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 5 SD",
+    "url": "https://stream.supertv.gg:3005/supertv/sport/stv5/ch5/ch5_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/5-HD.png/240px-5-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 6 SD",
+    "url": "https://stream.supertv.gg:3006/supertv/sport/stv6/ch6/ch6_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/6-HD.png/240px-6-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 7 SD",
+    "url": "https://stream.supertv.gg:3007/supertv/sport/stv7/ch7/ch7_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 8 SD",
+    "url": "https://stream.supertv.gg:3008/supertv/sport/stv8/ch8/ch8_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/8-HD.png/240px-8-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport 9 SD",
+    "url": "https://stream.supertv.gg:3009/supertv/sport/stv9/ch9/ch9_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/9-HD.png/240px-9-HD.png"
+  },
+  {
+    "channel": "Super TV beIN Sport xtra1 SD",
+    "url": "https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_360p.m3u8",
+    "http_referrer": null,
+    "user_agent": null,
+    "logo": "https://cne-eg.com/uploads/logos/202112151077.png"
   }
+]
   
 ]
