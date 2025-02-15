@@ -675,7 +675,6 @@
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ssc_sports.png"
   },
-  [
   {
     "channel": "Super TV beIN Sport 1 FHD",
     "url": "https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8",
@@ -886,6 +885,4 @@
     "user_agent": null,
     "logo": "https://cne-eg.com/uploads/logos/202112151077.png"
   }
-]
-  
 ]
