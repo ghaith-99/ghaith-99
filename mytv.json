@@ -321,8 +321,6 @@
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
   },
-
-  /* المجموعة الثانية: قنوات beIN FHD */
   {
     "channel": "BEIN SPORTS 1 FHD",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534236&extension=m3u8",
