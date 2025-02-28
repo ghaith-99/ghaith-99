@@ -1,5 +1,4 @@
 [
-  /* --- القنوات قبل Raya تبقى بنفس الترتيب --- */
   {
     "channel": "ALRAHMA beIN Sport 1 HD",
     "url": "https://tv.kooraiq.com:4433/beIN_sport1/tracks-v1a1/mono.m3u8",
@@ -196,10 +195,6 @@
     "user_agent": null,
     "logo": "https://play-lh.googleusercontent.com/awH-aI-hDShbxIS1b8S846sv6Fkg3_Utrqz4gQR71-ZajxxomC_RXPI-nMYyLdxjqW-Y"
   },
-
-  /* --- الآن إعادة ترتيب القنوات بعد Raya 3 --- */
-
-  /* المجموعة الأولى: قنوات beIN 4K / 5K */
   {
     "channel": "beIN SPORTS 4K",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272168&extension=m3u8",
@@ -454,8 +449,6 @@
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2-HD.png/240px-2-HD.png"
   },
-
-  /* المجموعة الثالثة: قنوات beIN HD (تحتوي على كلمة HD فقط) */
   {
     "channel": "beIN SPORTS HD",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=272163&extension=m3u8",
@@ -582,8 +575,6 @@
     "user_agent": null,
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/7-HD.png/240px-7-HD.png"
   },
-
-  /* المجموعة الرابعة: القنوات التي تحتوي على SD (بما فيها قنوات SSC) */
   {
     "channel": "SSC SPORTS EXTRA 1",
     "url": "http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=278006&extension=m3u8",
